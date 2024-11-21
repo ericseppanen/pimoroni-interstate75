@@ -3,7 +3,7 @@ name = "pimoroni_interstate75"
 version = "0.1.0"
 authors = ["Eric Seppanen"]
 edition = "2021"
-homepage = "https://github.com/ericseppanen/pimoroni-interstate75"
+repository = "https://github.com/ericseppanen/pimoroni-interstate75"
 description = "Board Support Package for the Pimoroni Interstate 75"
 license = "MIT OR Apache-2.0"
 
